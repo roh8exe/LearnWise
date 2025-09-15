@@ -11,7 +11,7 @@ Transform passive video watching into an active, efficient, and personalized lea
 **Developer**: Rohit Kumar | Mechanical Engineering | Indian Institute of Technology, Goa  
 **Email**: rohit.kumar.23063@iitgoa.ac.in  
 📖 Detailed Project Report & Documentation: *[Google Doc](https://docs.google.com/document/d/1wPANDyRR1lOeG5iKZDyUX2cuD2XLmIot3WA_NVs6BgY/edit?usp=sharing)*  
-🎥 Video Explanation: *[Demo Video Link - To be added]*  
+🎥 Video Explanation: *(https://drive.google.com/file/d/1PelJla-oMCeLJGEs9vMF5kAX-Rb0y3UW/view?usp=sharing)*  
 
 ---
 
